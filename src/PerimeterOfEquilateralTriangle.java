@@ -7,3 +7,7 @@ public class PerimeterOfEquilateralTriangle {
         System.out.println(3 * a);
     }
 }
+ //Perimeter Of Parallelogram = 2 (a + b)
+//Perimeter Of Rectangle = (l + w) * 2
+//Perimeter Of Square = 4a
+//Perimeter Of Rhombus = 4a
